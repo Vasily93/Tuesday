@@ -1,0 +1,16 @@
+body {
+     color:blue
+ }
+h1 {
+    font-family: sans-serif;
+}
+ol {
+    color: chocolate
+}
+.holder-type {
+    color: cornflowerblue; margin: 10;px
+    font-size: large;
+    font-style: italic;
+}
+
+
